@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on improving my code, mainly PowerShell to enhance efficiencies in Modern Workplace
+- 📫 How to reach me: Twitter/X @Systems-Liam
+- 😄 Pronouns: He/Him
+
 <!--
 **Systems-Liam/Systems-Liam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
