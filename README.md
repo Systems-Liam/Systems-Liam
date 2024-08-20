@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on improving my code, mainly PowerShell to enhance efficiencies in Modern Workplace
-- 📫 How to reach me: Twitter/X @Systems-Liam
+- 📫 How to reach me: Twitter/X @Systems_Liam
 - 😄 Pronouns: He/Him
 
 <!--
